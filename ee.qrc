@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ee.qss</file>
+        <file>assets/fonts/amiko-bold.ttf</file>
+        <file>assets/fonts/amiko-regular.ttf</file>
+        <file>assets/fonts/amiko-semi-bold.ttf</file>
+        <file>assets/images/close-button.png</file>
+        <file>assets/images/help-button.png</file>
+        <file>assets/images/minimize-button.png</file>
+        <file>assets/images/settings-button.png</file>
+        <file>assets/roms/invaders.e</file>
+        <file>assets/roms/invaders.f</file>
+        <file>assets/roms/invaders.g</file>
+        <file>assets/roms/invaders.h</file>
+        <file>assets/8080_instructions.json</file>
+        <file>assets/roms/cpudiag.bin</file>
+        <file>assets/images/power-icon-off.svg</file>
+        <file>assets/images/power-icon-on.svg</file>
+        <file>assets/images/pause-icon-off.svg</file>
+        <file>assets/images/pause-icon-on.svg</file>
+        <file>assets/images/capture-icon-off.svg</file>
+        <file>assets/images/capture-icon-on.svg</file>
+        <file>assets/shaders/si.frag</file>
+        <file>assets/shaders/si.vert</file>
+        <file>assets/images/step-icon-off.svg</file>
+        <file>assets/images/step-icon-on.svg</file>
+    </qresource>
+</RCC>

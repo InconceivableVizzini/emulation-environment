@@ -1,0 +1,41 @@
+QWidget {
+  font-family: "Amiko Regular";
+  font-size: 10px;
+  color: rgb(200, 200, 200);
+  background-color: rgb(50, 50, 50);
+}
+QWidget:focus {
+  border: 1px solid rgb(61, 174, 233);
+}
+AdaApplicationFrame {
+  /*background: qlineargradient(x1:0, y1:0, x2:0, y2:1,
+              stop:0 rgb(17,67,87), stop:1 rgb(242,148,146));*/
+  background-color: rgb(50, 50, 50);
+}
+QWidget#contentArea:focus {
+  border: none;
+}
+AdaApplicationFrame:focus {
+  border: none;
+}
+QLabel#windowTitle {
+
+}
+QWidget:disabled {
+  color: rgb(69, 69, 69);
+  background-color: rgb(117, 37, 27);
+}
+QToolButton {
+  border: none;
+}
+QScrollBar {
+  background: #89C0C7;
+}
+QScrollBar::up-arrow {
+}
+QWidget#disassemblystatelistwidgetstepbutton {
+  border: none;
+}
+QWidget#disassemblystatelistwidgetstepbutton:pressed {
+  border: none;
+}
